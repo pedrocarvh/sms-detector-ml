@@ -1,4 +1,3 @@
-markdown
 # Projeto de Previsão de Spam em SMS
 
 Este projeto visa construir um modelo de Machine Learning para classificar mensagens de texto como "spam" ou "ham" (não spam). Utilizamos um conjunto de dados com mensagens SMS rotuladas para treinar e testar o modelo. Este documento fornece um guia completo sobre o carregamento dos dados, pré-processamento, construção do modelo e avaliação.
